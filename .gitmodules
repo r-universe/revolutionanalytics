@@ -3,3 +3,24 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "checkpoint"]
+	path = checkpoint
+	url = https://github.com/revolutionanalytics/checkpoint
+	shallow = true
+	registered = true
+[submodule "doParallel"]
+	path = doParallel
+	url = https://github.com/revolutionanalytics/doparallel
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "foreach"]
+	path = foreach
+	url = https://github.com/revolutionanalytics/foreach
+	shallow = true
+	registered = true
+[submodule "iterators"]
+	path = iterators
+	url = https://github.com/revolutionanalytics/iterators
+	shallow = true
+	registered = true
