@@ -8,12 +8,6 @@
 	url = https://github.com/revolutionanalytics/checkpoint
 	shallow = true
 	registered = true
-[submodule "doParallel"]
-	path = doParallel
-	url = https://github.com/revolutionanalytics/doparallel
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "foreach"]
 	path = foreach
 	url = https://github.com/revolutionanalytics/foreach
