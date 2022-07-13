@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "doParallel",
+    "oncran": true
+  },
+  {
     "package": "foreach",
     "oncran": true
   },
