@@ -1,10 +1,6 @@
 [
   {
-    "package": "iterators",
-    "oncran": true
-  },
-  {
-    "package": "foreach",
+    "package": "checkpoint",
     "oncran": true
   },
   {
@@ -12,7 +8,11 @@
     "oncran": true
   },
   {
-    "package": "checkpoint",
+    "package": "foreach",
+    "oncran": true
+  },
+  {
+    "package": "iterators",
     "oncran": true
   }
 ]
