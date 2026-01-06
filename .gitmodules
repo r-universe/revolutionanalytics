@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "checkpoint"]
-	path = checkpoint
-	url = https://github.com/revolutionanalytics/checkpoint
 [submodule "doParallel"]
 	path = doParallel
 	url = https://github.com/revolutionanalytics/doparallel
